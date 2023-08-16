@@ -1,0 +1,1 @@
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const u=require("./src/index.js"),r=require("./src/button/index.js"),i=require("./src/tableSearch/index.js"),l={install:e=>u.default.forEach(t=>e.use(t))};exports.SpButton=r.default;exports.SpTableSearch=i.default;exports.default=l;
